@@ -1,2 +1,1 @@
-users = ["Bob", "Tom", "Ken"]
-
+users = ["Bob", "Tom", "Ken"]  # 定義だけでいい？
